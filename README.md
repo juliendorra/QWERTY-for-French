@@ -38,3 +38,14 @@ Of course the QWERTY International layout must serve many languages, but there i
 *QWERTY for French was created thanks to Ukulele: https://scripts.sil.org/ukelele*
 
 NOTE: It was not tested on US QWERTY keyboards. These keyboard have one less key, and lack the [`~] left-side key that this layout use for typing é. That is probably an issue.
+
+ ### Alternatives
+ 
+ **Qwerty-Lafayette**
+ Use an universal deadkey to access all accented characters
+ https://qwerty-lafayette.org/
+ 
+ **Qwerty-fr**
+ http://marin.jb.free.fr/qwerty-fr/
+ 
+
