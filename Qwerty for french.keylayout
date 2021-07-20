@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-04-29 at 12:49 (CEST)-->
+<!--Last edited by Ukelele version 3.3.0.249 on 2021-07-20 at 16:01 (CEST)-->
 <keyboard group="126" id="-2" name="Qwerty for french" maxout="3">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="commonModifiers"/>
@@ -451,7 +451,7 @@
             <key code="31" action="ø"/>
             <key code="32" output="ù"/>
             <key code="33" action="“"/>
-            <key code="34" output="ï"/>
+            <key code="34" action="ï"/>
             <key code="35" action="commabelow"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" action="stroke"/>
@@ -2371,6 +2371,9 @@
             <when state="none" output="æ"/>
             <when state="acute" output="ǽ"/>
             <when state="macron" output="ǣ"/>
+        </action>
+        <action id="ï">
+            <when state="none" next="diaeresis"/>
         </action>
         <action id="ø">
             <when state="none" output="œ"/>
