@@ -35,7 +35,7 @@ Of course the QWERTY International layout must serve many languages, but there i
  - use [option] + [Shift/Caps] + [> .] to get · (the median point). Useful for example when you want to be inclusive of genders yet effective: « Message aux étudiant·e·s »
 
 
-*QWERTY for French was created thanks to Ukulele: https://scripts.sil.org/ukelele*
+*QWERTY for French was created thanks to Ukulele: https://software.sil.org/ukelele/*
 
 NOTE: It was not tested on US QWERTY keyboards. These keyboard have one less key, and lack the [`~] left-side key that this layout use for typing é. That is probably an issue.
 
