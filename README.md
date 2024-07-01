@@ -59,6 +59,6 @@ QWERTY for French layout was tested on both US QWERTY Macbook keyboards and QWER
  https://qwerty-lafayette.org/
  
  **Qwerty-fr**
- http://marin.jb.free.fr/qwerty-fr/
+https://qwerty-fr.org
  
 
