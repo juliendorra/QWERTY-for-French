@@ -16,10 +16,23 @@ At the same time, I felt that there could be a more direct way to use French spe
 Of course the QWERTY International layout must serve many languages, but there is a place for a layout fine tuned for people who write in English and French.
 
 
-## Usage
+## Manual installation
+
  - drop the layout in your ~/Library/Keyboard Layouts
- - select the layout in System Settings / Keyboard / Input Methods (the layout will be found in Others)
- 
+ - select the layout in System Settings / Keyboard / Input Methods
+
+## Installer
+
+ - Download the installer DMG from the release
+ - Open the DMG and launch the installer
+ - Drop the layout file on the installer window, and pick "Install for this user"
+
+## Selecting the layout 
+
+The layout will be found in the Others section, at the bottom of the language list.
+
+ <img width="947" alt="Capture d’écran 2024-07-01 à 19 55 41" src="https://github.com/juliendorra/QWERTY-for-French/assets/109677/0a373582-390c-4107-ab52-85359a5f8c56">
+
  ### You can now use:
  
  - [option] + [a], [e], [~ `] ===> à, é, è
@@ -37,7 +50,7 @@ Of course the QWERTY International layout must serve many languages, but there i
 
 *QWERTY for French was created thanks to Ukulele: https://software.sil.org/ukelele/*
 
-NOTE: It was not tested on US QWERTY keyboards. These keyboard have one less key, and lack the [`~] left-side key that this layout use for typing é. That is probably an issue.
+QWERTY for French layout was tested on both US QWERTY Macbook keyboards and QWERTY International Macbook keyboards.
 
  ### Alternatives
  
