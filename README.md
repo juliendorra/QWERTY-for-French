@@ -18,14 +18,19 @@ Of course the QWERTY International layout must serve many languages, but there i
 
 ## Manual installation
 
- - drop the layout in your ~/Library/Keyboard Layouts
- - select the layout in System Settings / Keyboard / Input Methods
+### Install for one user
+ - drop the layout file `Qwerty for french.keylayout` in your ~/Library/Keyboard Layouts
+ - select the layout in System Settings / Keyboard / Language Input Methods / Others
+
+ ### Install for all users
+ - drop the layout file `Qwerty for french.keylayout` in your /Library/Keyboard Layouts (you need `sudo` privilidges)
+ - select the layout in System Set you need soaptings / Keyboard / Language Input Methods / Others
 
 ## Installer
 
  - Download the installer DMG from the release
  - Open the DMG and launch the installer
- - Drop the layout file on the installer window, and pick "Install for this user"
+ - Drop the layout file on the installer window, and pick "Install for this user" or "Install for all users"
 
 ## Selecting the layout 
 
@@ -60,5 +65,3 @@ QWERTY for French layout was tested on both US QWERTY Macbook keyboards and QWER
  
  **Qwerty-fr**
 https://qwerty-fr.org
- 
-
